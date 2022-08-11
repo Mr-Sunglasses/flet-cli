@@ -1,0 +1,14 @@
+A new Flet project.
+
+## Getting Started
+
+This project is a starting point for a Flet application.
+
+A few resources to get you started if this is your first Flet project:
+
+- [Lab: Write your first Flet app](https://flet.dev/docs/tutorials/python-todo)
+- [Cookbook: Useful Flet examples](https://github.com/flet-dev/examples)
+
+For help getting started with Flet development, view the
+[online documentation](https://flet.dev/docs/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
